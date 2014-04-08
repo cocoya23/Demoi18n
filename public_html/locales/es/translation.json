@@ -1,0 +1,15 @@
+{
+    "app": {
+        "welcome": "Bienvenido a nuestra pagina"
+    },
+    "menu": {
+        "file": "Archivo",
+        "edit": "Editar",
+        "view": "Ver",
+        "tool": "Herramientas"
+    },
+    "lang": {
+        "es": "Español",
+        "en": "Ingles"
+    }
+}

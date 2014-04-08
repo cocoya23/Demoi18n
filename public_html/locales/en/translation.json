@@ -1,0 +1,15 @@
+{
+    "app": {
+        "welcome": "Welcome to our page"
+    },
+    "menu": {
+        "file": "File",
+        "edit": "Edit",
+        "view": "View",
+        "tool": "Tools"
+    },
+    "lang": {
+        "es": "Spanish",
+        "en": "English"
+    }
+}
